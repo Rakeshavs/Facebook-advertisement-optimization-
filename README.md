@@ -13,9 +13,9 @@ Thompson Sampling is a probabilistic algorithm used to solve the exploration-exp
 
 ## 📂 Files
 
-- `thompson_sampling.py` - Main script for Thompson Sampling logic.
-- `dataset.csv` - A dataset containing binary rewards (1 = click, 0 = no click) for different ads.
-- `ucb.py` *(Optional)* - UCB algorithm for comparison.
+- `facebook ads  predicition using reinforcement learning.ipynb` - Main script for Thompson Sampling logic.
+- `Facebookads.xlsx` - A dataset containing binary rewards (1 = click, 0 = no click) for different ads.
+
 
 ## 📈 How it works
 
